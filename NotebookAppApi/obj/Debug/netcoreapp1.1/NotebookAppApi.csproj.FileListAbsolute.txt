@@ -1,0 +1,9 @@
+D:\Programs\NotebookAppApi\NotebookAppApi\bin\Debug\netcoreapp1.1\NotebookAppApi.deps.json
+D:\Programs\NotebookAppApi\NotebookAppApi\bin\Debug\netcoreapp1.1\NotebookAppApi.runtimeconfig.json
+D:\Programs\NotebookAppApi\NotebookAppApi\bin\Debug\netcoreapp1.1\NotebookAppApi.runtimeconfig.dev.json
+D:\Programs\NotebookAppApi\NotebookAppApi\bin\Debug\netcoreapp1.1\NotebookAppApi.dll
+D:\Programs\NotebookAppApi\NotebookAppApi\obj\Debug\netcoreapp1.1\NotebookAppApi.csprojResolveAssemblyReference.cache
+D:\Programs\NotebookAppApi\NotebookAppApi\obj\Debug\netcoreapp1.1\NotebookAppApi.AssemblyInfo.cs
+D:\Programs\NotebookAppApi\NotebookAppApi\bin\Debug\netcoreapp1.1\NotebookAppApi.pdb
+D:\Programs\NotebookAppApi\NotebookAppApi\obj\Debug\netcoreapp1.1\NotebookAppApi.dll
+D:\Programs\NotebookAppApi\NotebookAppApi\obj\Debug\netcoreapp1.1\NotebookAppApi.pdb
